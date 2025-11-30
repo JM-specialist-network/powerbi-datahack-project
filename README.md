@@ -48,6 +48,7 @@ El informe final incluye distintas páginas, por ejemplo:
 
 - `reports/Caso_final_Datahack.pbix` – Main Power BI report file.  
 - `images/` – Screenshots of the main report pages (overview, campaigns, audiences).
+- `pdf/Caso_final_Datahack.pdf`- Picture of interactive Dashcboard.
 
 ## 🚀 How to use / Cómo usar
 
