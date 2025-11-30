@@ -1,5 +1,3 @@
-# caso_final_datahack.pbix
-
 # 📊 Final Marketing Analytics Project – Power BI
 
 ## 🚀 Introduction / Introducción
@@ -24,7 +22,7 @@ Main steps carried out in Power Query and the data model:
 
 - Import CSV marketing data into Power BI and review data types.  
 - Clean missing values, inconsistent dates and outliers in spend, impressions and clicks.  
-- Build a star schema with a central fact table (campaign metrics) and dimension tables (date, country, device, audience segments, campaign). [web:7][web:19]
+- Build a star schema with a central fact table (campaign metrics) and dimension tables (date, country, device, audience segments, campaign).
 
 Pasos principales realizados en Power Query y en el modelo de datos:
 
